@@ -1,2 +1,7 @@
-# 自学之路
-## [尝试自己做一个博客(blog)](http://kk1982x.github.io/index.html)
+## 尝试自己写一个博客(Blog)
+访问演示地址：
+[http://kk1982x.github.io/blog/index.html]("http://kk1982x.github.io/blog/", "博客演示地址")  
+
+&#160;&#160;&#160;&#160;这段时间正在学习web开发，看了几本书大概的了解一下这方面的知识，就想着做个东西出来边学边写，正好也可以把这次实践笔记整理出来。
+### 需要用到的知识：
+**CSS**、**Javascript**、**HTML5**、**XML**
